@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: [@ekjot__](https://www.instagram.com/ekjot__/)  on instagram
-- 🌱 I’m currently learning Web Dev(HTML,CSS,JS)
+- 🌱 I’m currently learning Web Development
 - Skillset: C/C++,Java
 
 
