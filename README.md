@@ -8,4 +8,4 @@
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekjot07&langs_count=5&theme=omni)]()
   <br>
   
-![](https://komarev.com/ghpvc/?username=harshhvv&color=green)
+![](https://komarev.com/ghpvc/?username=Ekjot07&color=Red)
