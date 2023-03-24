@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: [@ekjot__](https://www.instagram.com/ekjot__/)  on instagram
-- 🌱 I’m currently learning Web Development
-- Skillset: C/C++,Java
+- - 🌱 I’m currently learning web development with solidity
+- Skillset: C, C++, HTML. CSS, JavaScript, JQuery, PHP, Java, Python
 
 ![Ekjot's github stats](https://github-readme-stats.vercel.app/api?username=Ekjot07&show_icons=true&count_private=true&theme=omni) 
 <br>
