@@ -20,7 +20,7 @@
  
 
 <h3>A Bit More about me:<h3>
- <li> currently studying at VIT vellore and doing CSE</li>
+ <li> Currently studying at VIT vellore and doing CSE</li>
   <li>Doing Web Development and learning new frameworks everyday </li></ul></p>
 
 <div align="center">
