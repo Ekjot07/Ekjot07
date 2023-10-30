@@ -20,9 +20,8 @@
  
 
 <h3>A Bit More about me:<h3>
-  <p style="color:red"><ul><li>A Jaipur resident</li><li> DOB: 22/12/2002</li>
  <li> currently studying at VIT vellore and doing CSE</li>
-  <li>Doing HTML, CSS, C, Python, JavaScript</li></ul></p>
+  <li>Doing Web Development and learning new frameworks everyday </li></ul></p>
 
 <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
