@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/priyanshmehta22?style=social) 
 
 </div>
-<h3 align="center">I'm a 4th year Student at Vellore Institute of Technology, Vellore. </h3>
+<h3 align="center">2024 Graduate from Vellore Institute of Technology, Vellore, with a major in Computer Science and Engineering.</h3>
 <br />
 <br />
 <p align="center">
@@ -14,14 +14,23 @@
 
 <h2 align="center"><strong>GitHub Stats</strong><h2>  
 
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=Ekjot07&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff) 
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekjot07&langs_count=5&theme=omni)]()
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ekjot07&theme=chartreuse-dark&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff)
- 
+![Ekjot's github stats](https://github-readme-stats.vercel.app/api?username=Ekjot07&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff) 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekjot07&langs_count=5&theme=omni)]()
+
+<h2 align="center"><strong>Tech Stack</strong></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+</p>
 
 <h3>A Bit More about me:<h3>
- <li> Currently studying at VIT vellore and doing CSE</li>
-  <li>Doing Web Development and learning new frameworks everyday </li></ul></p>
+ <li> Ex - Amazon data engineering intern </li>
+ <li> Freelance Web Developer </li>
+ <li> Doing Web Development and learning new frameworks everyday </li></ul></p>
 
 <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
